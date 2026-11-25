@@ -6,7 +6,7 @@ interface Product {
 
 const product: Product = {
   id: 1,
-  title: 'TABLET',
+  title: 'Tablet',
   description: 'Compact and fast',
 };
 
